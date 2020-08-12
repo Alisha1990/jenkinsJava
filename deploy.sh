@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /Users/alishaakhouri/Desktop/jenkinsJava.jar
+java -jar /Users/alishaakhouri/.jenkins/workspace/jenkinsJava.jar
